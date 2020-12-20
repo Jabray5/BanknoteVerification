@@ -88,3 +88,7 @@ human or alternative system, steps need to be taken to measure the various quali
 given note and input these measurements in to the model. These measurements could be
 made by machines or people, but either way would incur costs which would need to be
 considered.
+
+
+
+[Banknote Authentication Dataset](https://www.openml.org/d/1462)
